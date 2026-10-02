@@ -49,6 +49,36 @@ Decides to use Search Tool
 EduLoop Book Database
    ↓
 Matching Books
+---
+
+## 👩‍💻 Creator
+
+<div align="center">
+
+### ✨ Ekanshi Goyal
+
+**Founder & Developer of EduLoop**
+
+> *"Pass the Book, Not the Cost."*
+
+EduLoop was conceptualized and developed by **Ekanshi Goyal** as an AI-powered solution to make academic resources more affordable, accessible, and reusable for students.
+
+💜 Built with Python • Streamlit • Gemini AI • SQLite
+
+</div>
+
+---
+
+### 📬 Connect
+
+- 💼 LinkedIn: [Ekanshi Goyal](https://www.linkedin.com/in/ekanshi-goyal-3a4881426/)
+- 🐙 GitHub: [ekanshigoyal2007](https://github.com/ekanshigoyal2007)
+
+---
+
+<p align="center">
+  Made with 💜 and AI by <b>Ekanshi Goyal</b>
+</p>
    ↓
 Gemini AI Analysis
    ↓
